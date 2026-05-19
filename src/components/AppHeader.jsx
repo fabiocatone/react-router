@@ -15,7 +15,7 @@ export default function AppHeader() {
           <NavLink className="nav-link" to="/ChiSiamo">Chi Siamo</NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link" to="/prodotti">Prodotti</NavLink>
+          <NavLink className="nav-link" to="/Prodotti">Prodotti</NavLink>
         </li>
         
       </ul>
